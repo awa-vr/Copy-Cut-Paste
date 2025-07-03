@@ -1,7 +1,7 @@
 {
   "name": "com.awavr.copycutpaste",
   "displayName": "AwA - CopyCutPaste",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Adds 3 much needed buttons to Unity assets: Copy, Cut, and Paste.",
   "gitDependencies": {},
   "vpmDependencies": {},
@@ -10,6 +10,9 @@
     "email": "N/A",
     "url": "https://github.com/awa-vr/vrc-tools"
   },
+  "legacyPackages": [
+    "com.dreadscripts.copycutpaste"
+  ],
   "legacyFolders": {},
   "legacyFiles": {},
   "type": "tool",
